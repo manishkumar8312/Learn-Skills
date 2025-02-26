@@ -1,7 +1,7 @@
 # Learn Skills Webpage
 
 ## Overview
-This is a responsive webpage built using HTML, Tailwind CSS, and JavaScript. The website promotes the "Learn Skills" platform, showcasing its various features and products related to skill development and career growth.
+This is a responsive webpage built using HTML, Tailwind CSS. The website promotes the "Learn Skills" platform, showcasing its various features and products related to skill development and career growth.
 
 ## Features
 - **Responsive Navigation Bar:** Includes links to Home, About Us, and Contact Us, along with a Login/Signup button.
@@ -34,7 +34,7 @@ This is a responsive webpage built using HTML, Tailwind CSS, and JavaScript. The
 - Include interactive elements using JavaScript.
 
 ## Author
-Developed by [Your Name].
+Developed by Manish Kumar Sah.
 
 ## License
 This project is licensed under the MIT License.
